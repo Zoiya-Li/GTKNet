@@ -1,4 +1,4 @@
-# GTKNet: Graph Transformer with Knowledge Graph Integration
+# GTKNet: Gated Temporal Knowledge Network
 
 GTKNet is a novel deep learning framework for transaction classification that combines Graph Neural Networks (GNNs) with Knowledge Graph embeddings. The model employs a unique fusion mechanism to integrate structural information from transaction graphs with semantic information from knowledge graphs.
 
