@@ -1,0 +1,13 @@
+torch==2.1.2
+torch-geometric==2.0.0
+torch-scatter
+torch-sparse
+torch_spline_conv==1.1.0
+torch_cluster
+numpy
+pandas
+scikit-learn
+networkx
+node2vec
+gensim
+matplotlib
